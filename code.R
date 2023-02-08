@@ -1,0 +1,2 @@
+data("storms")
+> head(storms)
